@@ -1,0 +1,22 @@
+.filme-info{
+   
+    display: flex;
+    flex-direction: column;
+    max-width: 900px;
+    height: 480px;
+   
+
+}
+.filme-info img{
+
+    border-radius: 50px;
+   
+}
+
+.filme-info p{
+
+   /*font-size:20px;
+   padding-top: -550px;*/
+   text-align:justify;
+
+}
